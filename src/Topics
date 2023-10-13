@@ -47,6 +47,30 @@ Array
     435
     452
     456
+    486
+    518
+    542
+    646
+    735
+    852
+    875
+    896
+    905
+    1282
+    1326
+    1337
+    1351
+    1431
+    1470
+    1584
+    1631
+    1658
+    1679
+    1870
+    2366
+    2369
+    2616
+    2707
 Backtracking
     17
     46
@@ -66,6 +90,14 @@ Binary Search
     209
     240
     456
+    852
+    875
+    1337
+    1351
+    1631
+    1658
+    1870
+    2616
 Binary Search Tree
     95
 Binary Tree
@@ -89,6 +121,8 @@ Bit Manipulation
     389
 Combinatorics
     62
+    920
+    1359
 Hash Table
     1
     3
@@ -112,6 +146,12 @@ Hash Table
     380
     383
     389
+    767
+    1282
+    1647
+    1658
+    1679
+    2707
 Linked List
     2
     21
@@ -122,6 +162,7 @@ Linked List
     141
     146
     445
+    725
 Math
     2
     7
@@ -142,16 +183,25 @@ Math
     202
     380
     445
+    920
+    1359
+    2366
+    2469
 Matrix
     63
     64
     74
     240
+    542
+    1337
+    1351
+    1631
 Recursion
     2
     10
     21
     50
+    486
 String
     3
     6
@@ -177,19 +227,32 @@ String
     383
     389
     392
+    459
+    712
+    767
+    880
+    1309
+    1647
+    1768
+    2483
+    2707
 String Matching
     28
+    459
 SlidingWindow
     3
     209
     219
     239
+    1658
 Stack
     114
     225
     316
     445
     456
+    735
+    880
 Sorting
     49
     56
@@ -202,6 +265,13 @@ Sorting
     389
     435
     452
+    646
+    767
+    905
+    1337
+    1489
+    1647
+    1679
 Monotonic Stack
     316
     456
@@ -241,6 +311,16 @@ Dynamic Programming
     392
     403
     435
+    486
+    518
+    542
+    646
+    712
+    920
+    1326
+    1359
+    2369
+    2707
 Two Pointers
     11
     26
@@ -256,6 +336,9 @@ Two Pointers
     202
     283
     392
+    905
+    1679
+    1768
 Greedy
     11
     122
@@ -263,9 +346,16 @@ Greedy
     316
     435
     452
+    646
+    767
+    1326
+    1647
+    2366
+    2616
 Trie
     14
     139
+    2707
 Tree
     95
     100
@@ -279,6 +369,7 @@ Tree
 Simulation
     67
     68
+    735
 Memoization
     70
     139
@@ -290,27 +381,50 @@ Deep-First Search
     129
     207
     226
+    802
+    1203
+    1631
 Breadth-First Search
     100
     104
     112
     207
     226
+    542
+    802
+    1203
+    1631
 Union Find
     128
+    1489
+    1584
+    1631
 Counting
     169
     383
+    767
 Topological Sort
     207
+    802
+    1203
 Graph
     207
+    802
+    1203
+    1489
+    1584
+    1615
 Prefix Sum
     209
     238
+    1658
+    2483
 Heap (Priority Queue)
     215
     239
+    767
+    1337
+    1631
 Quickselect
     215
 Queue
@@ -319,3 +433,10 @@ Counting Sort
     274
 Randomized
     380
+Game Theory
+    486
+Minimum Spanning Tree
+    1489
+    1584
+Strongly Connected Component
+    1489
